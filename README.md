@@ -31,8 +31,8 @@
 
 ## 2. Find Suitable Rooms  
    🏨 Intelligent recommendations for tailored accommodations.  
-   ![Find Suitable Rooms](images/find_room_feature.png)
+   ![Find Suitable Rooms](ask_for_empty_room.png)
 
 ## 3. Database Search  
    🔍 Fast and accurate searches for the best results.  
-   ![Database Search](images/database_search_feature.png)
+   ![Database Search](ask_for_numbers.png)
