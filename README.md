@@ -21,3 +21,18 @@
 7. **Exclusive Deals and Refund Policy**:  
    - The **Booking Room Agent** partners with thousands of hotels to bring you exclusive offers and ensures a hassle-free refund policy.
 
+
+
+# Three Core Features
+
+## 1. Chat with Users  
+   🗨️ Seamless interaction to understand user needs.  
+   ![Chat with Users](home_page.png)
+
+## 2. Find Suitable Rooms  
+   🏨 Intelligent recommendations for tailored accommodations.  
+   ![Find Suitable Rooms](images/find_room_feature.png)
+
+## 3. Database Search  
+   🔍 Fast and accurate searches for the best results.  
+   ![Database Search](images/database_search_feature.png)
