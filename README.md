@@ -35,4 +35,4 @@
 
 ## 3. Database Search  
    🔍 Fast and accurate searches for the best results.  
-   ![Database Search](ask_for_numbers.png)
+   ![Database Search](ask for numbers.png)
